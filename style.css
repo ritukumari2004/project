@@ -1,0 +1,36 @@
+html,body{
+    height:100%;
+    width:100%;
+    background-image:url("https://ae01.alicdn.com/kf/HTB1EjYyNXXXXXa6XFXXq6xXFXXX5/FXSUM-Mini-Colorful-Calculator-Creative-8-Digital-Pocket-Handheld-Calculator-Student-School-Stationery-Supplies.jpg");
+    
+    
+}
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+}
+.row{
+    
+    margin:8px 0;
+    
+}
+.row input{
+    width: 291px;
+    font-size: 20px;
+    margin:0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.cal{
+    width:350px;
+    border: 5px solid black;
+    border-radius: 3px;
+    background-color:gray;
+    margin:auto ;
+
+}
